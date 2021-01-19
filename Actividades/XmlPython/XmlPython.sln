@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "XmlPython", "XmlPython.pyproj", "{4FD6ED16-0F1F-464A-90C1-C8A45A7CC591}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FD6ED16-0F1F-464A-90C1-C8A45A7CC591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FD6ED16-0F1F-464A-90C1-C8A45A7CC591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67E89C98-AA6B-4A1D-BA48-11D31C24EE18}
+	EndGlobalSection
+EndGlobal

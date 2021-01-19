@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "UltimaPalabra", "UltimaPalabra.pyproj", "{EEBD4349-408B-4E0B-BE23-50675E824ED5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEBD4349-408B-4E0B-BE23-50675E824ED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEBD4349-408B-4E0B-BE23-50675E824ED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59E1FB1C-D5DF-4AA5-9D9A-97CF19E5D583}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+Por razones de seguridad no vamos a poder utilizar cualquier cuenta de correo para poder enviar correos desde la aplicación python.
+Outlook
+A mí al menos, por el momento, no me da problemas.
+Tendremos que configurarlo con los siguientes parámetros:
+server --> smtp.gmail.com: 587
+GMAIL
+Para poder establecer como servidor de los correos a enviar GMAIL, tenemos que hacer una pequeña modificación en la configuración de nuestra cuenta.
+Debes ir en tu cuenta a Configuración de la cuenta > Seguridad > Acceso de aplicaciones poco seguras, y habilitar esta opción. Te informará de que es un riesgo. Pero es
+la forma para que nos permita utilizar nuestra cuenta Gmail para poder hacer pruebas.
+NO debéis olvidar devolverlo a su estado desactivado cuando finalicéis las pruebas para esta aplicación.
+
+Con el resto de cuentas de correo, este curso no hemos conseguido emplearlas porque cada vez incluyen más seguridad a las mismas.

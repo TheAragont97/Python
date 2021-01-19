@@ -1,0 +1,15 @@
+Cuando ponemos import pymysql, aparece subrayado como un posible error. Debemos instalar el
+paquete para nuestro entorno. 
+Los pasos a realizar son los siguientes:
+
+Desde la opción Ver de la Barra de Herramientas:
+1. Buscamos Otras Ventanas
+2. Entornos de Python
+3. En la derecha, donde aparece el Explorador de Soluciones, aparecerá los diferentes entornos
+de Python que estamos empleando, puede que sólo haya uno.
+4. Seleccionamos el entorno, y en la pestaña donde aparece Información general, seleccionamos la 
+Paquetes PyPI.
+5. Buscamos el paquete pymysql.
+6. Cuando aparezca en la lista de abajo, le damos a instalar, y una vez instalado, en nuestro
+import pymysql, desaparecerá la línea de debajo de este paquete, ya que ahora sí podemos importarlo
+sin problema.
